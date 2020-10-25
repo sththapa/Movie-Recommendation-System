@@ -24,5 +24,6 @@ The problem we are trying to solve is about estimating the similar interests of 
 > Counting the ratings, that is to ensure what is the average highest rating in the scale of (0.0 to 5.0)
 <img src="countplot.png"/>
 
+* ©️ Santosh Thapa 2020
 
 
